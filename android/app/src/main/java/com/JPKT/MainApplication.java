@@ -1,4 +1,4 @@
-package com.reactnativets;
+package com.JPKT;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
