@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnativets"
+    namespace "com.JPKT"
     defaultConfig {
-        applicationId "com.reactnativets"
+        applicationId "com.JPKT"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
